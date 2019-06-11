@@ -16,5 +16,5 @@
 ## Comms-router
 | Env | Web |
 | ------ | ------ |
-| api | [![Web is down](https://api.comms-router.com/comms-router-web/api/routers)](https://api.comms-router.com/comms-router-web/api/routers) |
+| api | ![Swagger Validator](https://img.shields.io/swagger/valid/2.0/https/api.comms-router.com/comms-router-web/api/swagger.json.svg)(https://api.comms-router.com/comms-router-web/api/routers) |
 | gui | [![Web is down](https://api.comms-router.com/comms-router-gui/favicon.ico)](https://api.comms-router.com/comms-router-gui/) |
