@@ -17,4 +17,4 @@
 | Env | Web |
 | ------ | ------ |
 | api | [![Web is down](https://api.comms-router.com/comms-router-web/api/routers)](https://api.comms-router.com/comms-router-web/api/routers) |
-| gui | [![Web is down](https://api.comms-router.com/comms-router-gui/assets/img/volta-icons.855d505.svg)](https://api.comms-router.com/comms-router-gui/) |
+| gui | [![Web is down](https://api.comms-router.com/comms-router-gui/favicon.ico)](https://api.comms-router.com/comms-router-gui/) |
