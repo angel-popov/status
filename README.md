@@ -9,12 +9,12 @@
 ## Omnichannel
 | Env | Web |
 | ------ | ------ |
-| api | [![Web is down](https://nexmo-omni-channel.geeks-lab.net/cs/app/routers)](https://nexmo-omni-channel.geeks-lab.net/cs/api) |
+| api | [![Web is down](https://img.shields.io/website/https/nexmo-omni-channel.geeks-lab.net/cs/api/applications)](https://nexmo-omni-channel.geeks-lab.net/cs/api) |
 | app | [![Web is down](https://nexmo-omni-channel.geeks-lab.net/cs/app/favicon-32x32.png)](https://nexmo-omni-channel.geeks-lab.net/cs/app) |
 | ump | [![Web is down](http://nexmo-omni-channel.geeks-lab.net/cs/ump/favicon-32x32.png)](http://nexmo-omni-channel.geeks-lab.net/cs/ump) |
 
 ## Comms-router
 | Env | Web |
 | ------ | ------ |
-| api | ![Swagger Validator](https://img.shields.io/swagger/valid/2.0/https/api.comms-router.com/comms-router-web/api/swagger.json.svg)(https://api.comms-router.com/comms-router-web/api/routers) |
+| api | <img alt="Website" src="https://img.shields.io/website/https/api.comms-router.com/comms-router-web/api/routers.svg"> ![Api status](https://img.shields.io/website/https/api.comms-router.com/comms-router-web/api/routers.svg)(https://api.comms-router.com/comms-router-web/api/routers) |
 | gui | [![Web is down](https://api.comms-router.com/comms-router-gui/favicon.ico)](https://api.comms-router.com/comms-router-gui/) |
